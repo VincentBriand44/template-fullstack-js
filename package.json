@@ -16,8 +16,7 @@
   "author": "Vincent BRIAND",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^7.0.0",
-    "husky": "^7.0.0"
-  },
-  "dependencies": {}
+    "concurrently": "7.6.0",
+    "husky": "8.0.3"
+  }
 }
